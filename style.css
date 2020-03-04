@@ -1,0 +1,94 @@
+body{
+  display: grid;
+}
+
+nav{
+  display: flex;
+  background-color:#695e5c;
+  width: 100%;
+  height: 200px;
+  font-size: 500;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.nav-images{
+  margin-right: 40px;
+}
+
+.icon-heading{
+  font-size: 25px;
+  font-family: Mija;
+}
+
+.icon-description{
+  font-size: 16.446px;
+  font-family: Elena;
+}
+
+.nav-main-images span{
+  float: right;
+  margin-top: 80px;
+}
+
+.nav-main-images img{
+  margin-top: 50px;
+  width: 150px;
+  height: 100px;
+  /* background-color: white; */
+}
+
+.nav-images img{
+  margin-top: 50px;
+  width: 60px;
+  height: 40px;
+}
+
+.nav-button{
+  margin-top: 100px;
+  margin-right: 20px;
+}
+
+.nav-button button{
+  font-size: 30px;
+  font-family: Mija;
+  border: 4px solid white;
+  border-radius: 10px;
+  background-color: #695e5c;
+  color: white;
+}
+
+.nav-button i{
+  color: white;
+  font-size: 50px;
+}
+
+.section1{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.good-idea{
+  width: 100%;
+  height: 300px;
+  background-color: #9c9695;
+
+}
+
+.design{
+  width: 100%;
+  height: 300px;
+  background-color:#7d7c7c ;
+}
+
+.embrace{
+  width: 100%;
+  height: 300px;
+  background-color: #52504f;
+}
+
+.seo{
+  width: 100%;
+  height: 300px;
+  background-color: #c4c4c4;
+}
