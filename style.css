@@ -1,10 +1,10 @@
-body{
+body {
   margin: 0;
   padding: 0;
   font-family: Miya, Helvetica, Arial, sans-serif;
 }
 
-nav{
+nav {
   display: flex;
   background-color:#695e5c;
   width: 100%;
@@ -14,21 +14,21 @@ nav{
   padding-bottom: 50px;
 }
 
-.nav-images{
+.nav-images {
   margin-right: 30px;
 }
 
-.icon-heading{
+.icon-heading {
   font-size: 25px;
   font-family: Mija;
 }
 
-.icon-description{
+.icon-description {
   font-size: 16.446px;
   font-family: Elena;
 }
 
-.nav-main-images span{
+.nav-main-images span {
   float: right;
   margin-top: 0;
   position: relative;
@@ -36,28 +36,25 @@ nav{
   margin-right: 15px;
 }
 
-.nav-main-images img{
+.nav-main-images img {
   margin-top: 50px;
   width: 100px;
   height: 100px;
-  /* background-color: white; */
 }
 
-
-
-.nav-images img{
+.nav-images img {
   margin-top: 50px;
   width: 60px;
   height: 40px;
 }
 
-.nav-button{
+.nav-button {
   margin-top: 100px;
   margin-left: 90px;
   width: 140px;
 }
 
-.nav-button button{
+.nav-button button {
   font-size: 30px;
   font-family: Mija;
   border: 4px solid white;
@@ -74,84 +71,93 @@ nav{
   font-size: 20px;
 }
 
-.section1{
+.section1 {
   display: grid;
   grid-template-columns: auto auto;
 }
 
-.good-idea{
+.good-idea {
   width: 100%;
   height: 600px;
   background-color: #9c9695;
 
 }
 
-.design{
+.design {
   width: 100%;
   height: 600px;
   background-color:#7d7c7c ;
 }
 
-.embrace{
+.embrace {
   width: 100%;
   height: 600px;
   background-color: #52504f;
 }
 
-.seo{
+.seo {
   width: 100%;
   height: 600px;
   background-color: #c4c4c4;
 }
 
-.latest-articles{
+.latest-articles {
   margin-top: 170px;
   margin-left: 70px;
-  color: #ffffff;
+  color: #fff;
   font-family: Poppins;
   font-weight: 900;
 
 }
-.latest-articles h4{
 
+.latest-articles h4 {
   font-size: 30px;
 }
-.latest-articles h2{
+
+.latest-articles h2 {
   font-size: 40px;
 }
-.fa-comment-alt{
+
+.fa-comment-alt {
   font-size: 15px;
   padding-left:10px;
 }
-.latest-articles span{
+
+.latest-articles span {
   padding-right: 15px;
 }
-.latest-articles a{
+
+footer ul a {
+  color: #fff;
   text-decoration: none;
-  color: #ffffff;
+}
+
+.latest-articles a {
+  text-decoration: none;
+  color: #fff;
   font-family: Mija;
 }
 
-.fa-long-arrow-alt-right{
+.fa-long-arrow-alt-right {
   margin-left: 70px;
-  color: #ffffff;
+  color: #fff;
   font-size: 40px;
   margin-top: 100px;
 }
 
-.center-text{
+.center-text {
   position: absolute;
   margin: 0 auto;
   left: 0;
   right: 0;
   text-align: center;
   font-size: 45px;
-  background-color: #ffffff;
+  background-color: #fff;
   top: 300px;
   width: 40%;
 }
 
-.section2{
+.section2 {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-template-rows: auto auto auto;
@@ -161,40 +167,40 @@ nav{
   font-family: Mija;
 }
 
-.section2 p{
+.section2 p {
   line-height: 2em;
   font-weight: 500;
   font-size: 20px;
 }
 
-.section2 i{
+.section2 i {
   color: red;
   margin-top: 0;
   margin-left: 5px;
 }
 
-.section2 a{
+.section2 a {
   color: black;
 }
 
-.latest-posts1{
+.latest-posts1 {
   height: 600px;
-  background-color: #FFFFFF;
+  background-color: #fff;
   margin-right: 10px;
 }
 
-.latest-posts2{
+.latest-posts2 {
   height: 600px;
   margin-right: 10px;
-  background-color: 	#FFFFFF;
+  background-color: 	#fff;
 }
 
-.latest-posts3{
+.latest-posts3 {
   height: 600px;
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
-.latest-posts4{
+.latest-posts4 {
   height: 600px;
   padding-top: 20px;
   color: white;
@@ -205,20 +211,20 @@ nav{
 }
 
 .latest-posts4 p,
-.latest-posts9 p{
+.latest-posts9 p {
   margin-left: 15px;
   margin-right: 15px;
   line-height: 1.5em;
 }
 
 .latest-posts4 img,
-.latest-posts9 img{
+.latest-posts9 img {
   width: 60%;
   height: 200px;
 }
 
 .latest-posts4 button,
-.latest-posts9 button{
+.latest-posts9 button {
   border-radius: 5px;
   font-size: 20px;
   padding: 15px;
@@ -228,47 +234,47 @@ nav{
 
 .latest-posts4 i,
 .latest-posts9 i,
-.design-systems i{
+.design-systems i {
   color: blue;
   font-size: 10px;
 }
 
 .latest-posts4 span,
-.latest-posts9 span{
+.latest-posts9 span {
   padding-top: 15px;
 }
 
 .latest-posts4 a,
-.latest-posts9 a{
+.latest-posts9 a {
   color: white;
 }
 
-.latest-posts5{
+.latest-posts5 {
   height: 600px;
   margin-left: 10px;
   padding-top: 20px;
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
-.latest-posts6{
+.latest-posts6 {
   height: 600px;
   padding-top: 20px;
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
-.latest-posts7{
+.latest-posts7 {
   height: 600px;
   padding-top: 20px;
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
-.latest-posts8{
+.latest-posts8 {
   height: 600px;
   padding-top: 20px;
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
 
-.latest-posts9{
+.latest-posts9 {
   height: 600px;
   padding-top: 20px;
   color: white;
@@ -282,45 +288,45 @@ nav{
   margin-bottom: 30px;
 }
 
-.latest-articles2 i{
+.latest-articles2 i {
   color: black;
   font-size: 20px;
   margin-left: 0;
 }
 
-.latest-articles2 a{
+.latest-articles2 a {
   text-decoration: none;
   color: black;
   margin-left: 0px;
 }
 
-hr{
+hr {
   margin-right: auto;
   width: 16%;
   border: 2px solid red;
 }
 
-.prelaunch{
+.prelaunch {
   background-color: #A9A9A9;
   height: 800px;
   text-align: center;
   padding-top: 30px;
 }
 
-.community{
+.community {
   margin-left: 100px;
   margin-right: 30px;
   line-height: 2em;
 }
 
-.community-links{
+.community-links {
   display: grid;
   grid-template-columns: auto auto;
   grid-template-rows: auto auto auto;
   grid-gap: 20px;
 }
 
-.community1{
+.community1 {
   line-height: 2em;
   font-family: Elena;
   font-size: 20px;
@@ -328,7 +334,7 @@ hr{
 
 }
 
-.design-systems{
+.design-systems {
   background-color: #696969;
   padding-left: 30px;
   font-family: Elena, Arial, sans-serif;
@@ -336,46 +342,38 @@ hr{
 
 }
 
-.guides{
+.guides {
   display: grid;
   grid-template-columns: auto auto auto;
 
 }
 
-.guide1 a{
+.guide1 a {
   line-height: 2em;
   font-size: 20px;
   font-family: Elena, Helvetica, Arial, sans-serif;
 }
 
-footer{
+footer {
   width: 100%;
   text-align: center;
   background-color: #52504f;
-  color: #ffffff;
+  color: #fff;
   margin: 0;
   height: 500px;
 }
 
-footer ul{
+footer ul {
   margin-left: 20px;
   margin-right: 20px;
 }
 
-footer ul a{
-  color: #ffffff;
-  text-decoration: none;
-}
-
-
-
-footer li{
+footer li {
   display: inline-block;
   margin: 10px;
 }
 
-footer h5{
+footer h5 {
   font-size: 15px;
   padding-top: 20px;
-
 }
