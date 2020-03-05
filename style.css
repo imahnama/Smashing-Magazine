@@ -53,7 +53,7 @@ nav{
 
 .nav-button{
   margin-top: 100px;
-  margin-right: 20px;
+  margin-left: 90px;
   width: 140px;
 }
 
@@ -325,7 +325,7 @@ hr{
   font-family: Elena;
   font-size: 20px;
   margin-left: 20px;
- 
+
 }
 
 .design-systems{
@@ -366,7 +366,7 @@ footer ul a{
   color: #ffffff;
   text-decoration: none;
 }
-  
+
 
 
 footer li{
@@ -379,6 +379,3 @@ footer h5{
   padding-top: 20px;
 
 }
-
-
-
