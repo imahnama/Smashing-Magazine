@@ -1,12 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Miya, Helvetica, Arial, sans-serif;
+  font-family: Mija, Helvetica, Arial, sans-serif;
 }
 
 nav {
   display: flex;
-  background-color:#695e5c;
+  background-color: #695e5c;
   width: 100%;
   height: 200px;
   font-size: 500;
@@ -20,12 +20,12 @@ nav {
 
 .icon-heading {
   font-size: 25px;
-  font-family: Mija;
+  font-family: Mija, Helvetica, Arial, sans-serif;
 }
 
 .icon-description {
   font-size: 16.446px;
-  font-family: Elena;
+  font-family: Elena, Helvetica, Arial, sans-serif;
 }
 
 .nav-main-images span {
@@ -56,12 +56,11 @@ nav {
 
 .nav-button button {
   font-size: 30px;
-  font-family: Mija;
+  font-family: Mija, Helvetica, Arial, sans-serif;
   border: 4px solid white;
   border-radius: 10px;
   background-color: #695e5c;
   color: white;
-
 }
 
 .fa-search {
@@ -80,13 +79,12 @@ nav {
   width: 100%;
   height: 600px;
   background-color: #9c9695;
-
 }
 
 .design {
   width: 100%;
   height: 600px;
-  background-color:#7d7c7c ;
+  background-color: #7d7c7c;
 }
 
 .embrace {
@@ -105,9 +103,8 @@ nav {
   margin-top: 170px;
   margin-left: 70px;
   color: #fff;
-  font-family: Poppins;
+  font-family: Poppins, Helvetica, Arial, sans-serif;
   font-weight: 900;
-
 }
 
 .latest-articles h4 {
@@ -120,7 +117,7 @@ nav {
 
 .fa-comment-alt {
   font-size: 15px;
-  padding-left:10px;
+  padding-left: 10px;
 }
 
 .latest-articles span {
@@ -135,7 +132,7 @@ footer ul a {
 .latest-articles a {
   text-decoration: none;
   color: #fff;
-  font-family: Mija;
+  font-family: Mija, Helvetica, Arial, sans-serif;
 }
 
 .fa-long-arrow-alt-right {
@@ -164,7 +161,7 @@ footer ul a {
   margin-left: 30px;
   margin-top: 15px;
   text-align: left;
-  font-family: Mija;
+  font-family: Mija, Helvetica, Arial, sans-serif;
 }
 
 .section2 p {
@@ -192,7 +189,7 @@ footer ul a {
 .latest-posts2 {
   height: 600px;
   margin-right: 10px;
-  background-color: 	#fff;
+  background-color: #fff;
 }
 
 .latest-posts3 {
@@ -205,9 +202,8 @@ footer ul a {
   padding-top: 20px;
   color: white;
   text-align: center;
-  background-color:#52504f;
-  font-family: Elena;
-
+  background-color: #52504f;
+  font-family: Elena, Helvetica, Arial, sans-serif;
 }
 
 .latest-posts4 p,
@@ -279,8 +275,8 @@ footer ul a {
   padding-top: 20px;
   color: white;
   text-align: center;
-  background-color:#52504f;
-  font-family: Elena;
+  background-color: #52504f;
+  font-family: Elena, Helvetica, Arial, sans-serif;
 }
 
 .latest-articles2 {
@@ -297,7 +293,7 @@ footer ul a {
 .latest-articles2 a {
   text-decoration: none;
   color: black;
-  margin-left: 0px;
+  margin-left: 0;
 }
 
 hr {
@@ -307,7 +303,7 @@ hr {
 }
 
 .prelaunch {
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
   height: 800px;
   text-align: center;
   padding-top: 30px;
@@ -328,10 +324,9 @@ hr {
 
 .community1 {
   line-height: 2em;
-  font-family: Elena;
+  font-family: Elena, Helvetica, Arial, sans-serif;
   font-size: 20px;
   margin-left: 20px;
-
 }
 
 .design-systems {
@@ -339,13 +334,11 @@ hr {
   padding-left: 30px;
   font-family: Elena, Arial, sans-serif;
   color: white;
-
 }
 
 .guides {
   display: grid;
   grid-template-columns: auto auto auto;
-
 }
 
 .guide1 a {
