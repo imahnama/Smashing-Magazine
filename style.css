@@ -62,7 +62,7 @@ nav{
   border-radius: 10px;
   background-color: #695e5c;
   color: white;
-  
+
 }
 
 .fa-search {
@@ -147,4 +147,151 @@ nav{
   background-color: #ffffff;
   top: 300px;
   width: 40%;
+}
+
+.section2{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto;
+  margin-left: 30px;
+  margin-top: 15px;
+  text-align: left;
+  font-family: Mija;
+}
+
+.section2 p{
+  line-height: 2em;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.section2 i{
+  color: red;
+  margin-top: 0;
+  margin-left: 5px;
+}
+
+.section2 a{
+  color: black;
+}
+
+.latest-posts1{
+  height: 600px;
+  background-color: #FFFFFF;
+  margin-right: 10px;
+}
+
+.latest-posts2{
+  height: 600px;
+  margin-right: 10px;
+  background-color: 	#FFFFFF;
+}
+
+.latest-posts3{
+  height: 600px;
+  background-color: #FFFFFF;
+}
+
+.latest-posts4{
+  height: 600px;
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+  background-color:#52504f;
+  font-family: Elena;
+
+}
+
+.latest-posts4 p,
+.latest-posts9 p{
+  margin-left: 15px;
+  margin-right: 15px;
+  line-height: 1.5em;
+}
+
+.latest-posts4 img,
+.latest-posts9 img{
+  width: 60%;
+  height: 200px;
+}
+
+.latest-posts4 button,
+.latest-posts9 button{
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 15px;
+  color: blue;
+  margin-bottom: 30px;
+}
+
+.latest-posts4 i,
+.latest-posts9 i{
+  color: blue;
+  font-size: 10px;
+}
+
+.latest-posts4 span,
+.latest-posts9 span{
+  padding-top: 15px;
+}
+
+.latest-posts4 a,
+.latest-posts9 a{
+  color: white;
+}
+
+.latest-posts5{
+  height: 600px;
+  margin-left: 10px;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+}
+
+.latest-posts6{
+  height: 600px;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+}
+
+.latest-posts7{
+  height: 600px;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+}
+
+.latest-posts8{
+  height: 600px;
+  padding-top: 20px;
+  background-color: #FFFFFF;
+}
+
+.latest-posts9{
+  height: 600px;
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+  background-color:#52504f;
+  font-family: Elena;
+}
+
+.latest-articles2 {
+  text-align: center;
+}
+
+.latest-articles2 i{
+  color: black;
+  font-size: 20px;
+  margin-left: 0;
+}
+
+.latest-articles2 a{
+  text-decoration: none;
+  color: black;
+  margin-left: 0px;
+}
+
+hr{
+  margin-right: auto;
+  width: 16%;
+  border: 2px solid red;
 }
