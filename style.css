@@ -12,6 +12,7 @@ nav {
   font-size: 500;
   color: white;
   padding-bottom: 50px;
+  justify-content: center;
 }
 
 .nav-images {
@@ -32,7 +33,7 @@ nav {
   float: right;
   margin-top: 0;
   position: relative;
-  top: 70px;
+  bottom: 70px;
   margin-right: 15px;
 }
 
@@ -75,27 +76,24 @@ nav {
   grid-template-columns: auto auto;
 }
 
-.good-idea {
+.main-article {
   width: 100%;
   height: 600px;
+}
+
+.good-idea {
   background-color: #9c9695;
 }
 
 .design {
-  width: 100%;
-  height: 600px;
   background-color: #7d7c7c;
 }
 
 .embrace {
-  width: 100%;
-  height: 600px;
   background-color: #52504f;
 }
 
 .seo {
-  width: 100%;
-  height: 600px;
   background-color: #c4c4c4;
 }
 
@@ -186,12 +184,6 @@ footer ul a {
   margin-right: 10px;
 }
 
-.latest-posts2 {
-  height: 600px;
-  margin-right: 10px;
-  background-color: #fff;
-}
-
 .latest-posts3 {
   height: 600px;
   background-color: #fff;
@@ -253,18 +245,6 @@ footer ul a {
 }
 
 .latest-posts6 {
-  height: 600px;
-  padding-top: 20px;
-  background-color: #fff;
-}
-
-.latest-posts7 {
-  height: 600px;
-  padding-top: 20px;
-  background-color: #fff;
-}
-
-.latest-posts8 {
   height: 600px;
   padding-top: 20px;
   background-color: #fff;
@@ -341,10 +321,31 @@ hr {
   grid-template-columns: auto auto auto;
 }
 
-.guide1 a {
+.guide1 a, 
+.newsletter a {
   line-height: 2em;
   font-size: 20px;
   font-family: Elena, Helvetica, Arial, sans-serif;
+}
+
+.newsletter {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  margin-left: 20px;
+  height: 650px;
+}
+
+.right-newsletter{
+  text-align: center;
+  color: white;
+  background-color: #696969;
+  margin-right: 50px;
+  padding: 20px;
+}
+
+.right-newsletter img{
+  width: 50%;
+  height: auto;
 }
 
 footer {
