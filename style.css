@@ -321,7 +321,7 @@ hr {
   grid-template-columns: auto auto auto;
 }
 
-.guide1 a, 
+.guide1 a,
 .newsletter a {
   line-height: 2em;
   font-size: 20px;
@@ -335,7 +335,7 @@ hr {
   height: 650px;
 }
 
-.right-newsletter{
+.right-newsletter {
   text-align: center;
   color: white;
   background-color: #696969;
@@ -343,7 +343,7 @@ hr {
   padding: 20px;
 }
 
-.right-newsletter img{
+.right-newsletter img {
   width: 50%;
   height: auto;
 }
