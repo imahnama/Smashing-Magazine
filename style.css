@@ -4,6 +4,10 @@ body {
   font-family: Mija, Helvetica, Arial, sans-serif;
 }
 
+h6 {
+  display: none;
+}
+
 nav {
   display: flex;
   background-color: #695e5c;
